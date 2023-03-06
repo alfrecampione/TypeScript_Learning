@@ -1,2 +1,2 @@
 # TypeScript_Learning
-Repo for testing tutorials of TypeScript
+<p>Repo for testing tutorials of TypeScript
